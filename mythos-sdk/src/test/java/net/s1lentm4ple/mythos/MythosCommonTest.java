@@ -2,6 +2,8 @@ package net.s1lentm4ple.mythos;
 
 import org.junit.jupiter.api.*;
 
+import java.nio.file.*;
+
 public class MythosCommonTest {
 
     @Test
@@ -16,6 +18,9 @@ public class MythosCommonTest {
             System.out.println("Hello World from inner class!");
         }
     }
-
+    @Test
+    public void fileTest() {
+        Path filePath = Path.of("file.txt");
+    }
 
 }
