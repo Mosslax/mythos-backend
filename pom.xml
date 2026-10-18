@@ -9,7 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>mythos-sdk</module>
+        <module>mythos-core</module>
         <!-- <module>nymeia-workflow-engine</module> -->
     </modules>
 
