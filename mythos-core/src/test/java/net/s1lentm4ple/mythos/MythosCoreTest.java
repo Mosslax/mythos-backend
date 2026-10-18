@@ -4,7 +4,7 @@ import org.junit.jupiter.api.*;
 
 import java.nio.file.*;
 
-public class MythosCommonTest {
+public class MythosCoreTest {
 
     @Test
     public void helloWorldTest() {
